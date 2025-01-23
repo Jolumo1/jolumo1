@@ -53,8 +53,8 @@ Developer under development <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jolumo1&show_icons=true&rank_icon=github&custom_title=JoLumo's%20GitHub%20Stats&theme=react&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jolumo1&show_icons=true&rank_icon=github&custom_title=JoLumo's%20GitHub%20Stats&card_width=300&theme=react" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jolumo1&layout=compact&theme=react&langs_count=8&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jolumo1&layout=compact&card_width=300&langs_count=8&theme=react"/>
 </a>
